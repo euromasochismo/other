@@ -1,0 +1,105 @@
+@charset 'UTF-8';
+
+p, h1, h2, h3 {
+	font-family: Garamondopen;
+}
+
+p {
+	font-size: 12pt;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* PRIMA DI COPERTINA */
+
+#cover {
+	text-align: center;
+	font-family: Garamondopen;
+}
+
+#cover p#author {
+	padding-top: 20px;
+}
+
+#cover h1 {
+	font-size: 52pt;
+	padding-top: 40px;
+	padding-bottom: -30px;
+}
+
+#cover h2 {
+	font-size: 18pt;
+	padding-bottom: 90px;
+}
+
+#cover #prefazione {
+	margin-top: 95px;
+	/* border-top: 0.5px solid #000;
+	border-bottom: 0.5px solid #000; */
+	padding: 10px 0 10px 0;
+	/* background-color: #000;
+	color: #fff; */
+	/* font-weight: bold; */
+}
+
+#cover #edition {
+	font-style: oblique;
+	font-size: 10pt;
+	padding-top: 80px;
+}
+
+/* SECONDA DI COPERTINA */
+
+#second-cover {
+	font-family: Garamondopen;
+}
+
+#second-cover #licence {
+	padding-top: 500px
+}
+
+#second-cover #licence p, ul, li {
+	font-size: 10pt;
+}
+
+/* TESTO */
+
+.inner-text {
+	font-family: Garamondopen;
+}
+
+.inner-text h2 {
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+.inner-text p {
+	text-align: justify;
+}
+
+.inner-text #prefazione {
+	font-style: italic;
+}
+
+
+/* INDICE ANALITICO */
+
+
+/* ULTIMA DI COPERTINA */
+
+#last-cover {
+	text-align: center;
+	font-family: Garamondopen;
+}
+
+#last-cover p#retro {
+	padding-top: 50px;
+	font-style: italic;
+}
+
+#last-cover p#image {
+	padding-top: 200px;
+}
+
