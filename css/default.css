@@ -679,8 +679,7 @@ textarea {
 /* LIBRO                                                                      */
 /*********************************************************************************/
 
-#libro
-{
+#libro {
 	overflow: hidden;
 	padding: 3em 0em;
 	background: #1b70c0;
@@ -688,33 +687,60 @@ textarea {
 	color: rgba(255,255,255,.8);
 }
 
-#libro a
-{
+#libro a {
 	color: rgba(255,255,255,1);
 }
 
-#libro .button
-{
+#libro .button {
 	background: #FFF;
 	margin-top: 3em;
 	font-size: 1em;
 	color: #27AE61;
 }
 
-#libro .title
-{
-}
-
-#libro .title h2
-{
+#libro .title h2 {
 	color: #fff;
 }
 
-#api .title .byline
-{
+#api .title .byline {
 	color: rgba(255,255,255,.6);
 }
 
+
+/*********************************************************************************/
+/* MOBILE                                                                      */
+/*********************************************************************************/
+
+#mobile {
+	overflow: hidden;
+	padding: 3em 0em;
+	background: #d74235;
+	text-align: left;
+	color: rgba(255,255,255,.8);
+}
+
+#mobile a {
+	color: rgba(255,255,255,1);
+}
+
+#mobile .button {
+	background: #FFF;
+	margin-top: 1em;
+	font-size: 1em;
+	color: #d74235;
+}
+
+#mobile .title h2 {
+	color: #fff;
+}
+
+#mobile table tr td {
+	text-align: left !important
+}
+
+#mobile img.preview {
+	display: inline-block;
+}
 
 /********************************************************************************
 /* PERSONALIZZA                                                                      */

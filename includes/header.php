@@ -18,6 +18,7 @@ if(count(get_included_files()) ==1) exit("Direct access not permitted.");
 	<div id="menu">
 		<ul>
 			<li class="<?= ($page == 'generatore') ? 'current_page_item' : '' ?>"><a href="/" title="">Generatore</a></li>
+			<li class="<?= ($page == 'mobile') ? 'current_page_item' : '' ?>"><a href="mobile" title="" style="background-image: url('images/cerchiato.png'); background-repeat: no-repeat; background-position: center; color:#c50238">Mobile</a></li>
 			<li class="<?= ($page == 'contributi') ? 'current_page_item' : '' ?>"><a href="contributi" title="contributi">Contributi</a></li>
 			<li class="<?= ($page == 'widget') ? 'current_page_item' : '' ?>"><a href="widget" title="Widget">Widget</a></li>
 			<li class="<?= ($page == 'api') ? 'current_page_item' : '' ?>"><a href="api" title="API">API</a></li>
