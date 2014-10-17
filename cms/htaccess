@@ -1,6 +1,6 @@
 # PROTEZIONE CMS
 
-AuthUserFile /home7/rapporto/public_html/facciamocome/.htpasswd
+AuthUserFile [percorso htpasswd]
 AuthName "CMS"
 AuthType Basic
 require valid-user

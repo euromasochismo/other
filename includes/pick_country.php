@@ -8,7 +8,6 @@ require_once '../php/helpers.php';
 require_once '../php/mod.api.php';
 
 $countries = API::country_list();
-echo $page;
 
 ?>
 
