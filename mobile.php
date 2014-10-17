@@ -56,7 +56,7 @@
 
 		<div style="float: left">
 			<img class="preview" src="images/mobile-previews/iPhone5.png" width="120">
-			<img class="preview" src="images/mobile-previews/ipad.png" width="200">
+			<img class="preview" src="images/mobile-previews/iPad.png" width="200">
 			<img class="preview" src="images/mobile-previews/HTC_Sensation.png" width="120">
 			<img class="preview" src="images/mobile-previews/Nexus_One.png" width="120">
 			<img class="preview" src="images/mobile-previews/Galaxy_S3.png" width="120">
