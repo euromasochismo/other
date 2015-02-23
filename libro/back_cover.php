@@ -19,6 +19,11 @@
 			<p id="firma">Costanzo Preve</p>
 		</p>
 
+		<p id="retro">
+			«Si appassionano ai problemi del futuro, individuano tutte le cose che non vanno e, alla fine, concludono che l'Italia, per star bene, deve fare come la Svizzera. Costoro (quanti!) sono più pazzi degli altri, i quali asserivano che l'Italia, per star bene, doveva dominare su tutto l'orbe terracqueo. Almeno là c'era il precedente degli antichi romani»<br>
+			<p id="firma">Giovannino Guareschi</p>
+		</p>
+
 		<p id="image"><img src="../images/European_Stars_Black2.png" width="150"><p>
 		<p><a href="http://facciamocome.org">facciamocome.org</a><p>
 

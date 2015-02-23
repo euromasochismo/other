@@ -59,7 +59,7 @@ if (isset($_GET['filetype']) and $_GET['filetype'] == 'jpeg') {
 	imagejpeg($image, null, 100);
 } else {
 	header('Content-Type: image/png');
-	imagepng($image);
+	imagepng($image, null);
 }
 
 imagedestroy($image);
